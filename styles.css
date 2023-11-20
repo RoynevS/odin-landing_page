@@ -21,7 +21,7 @@ body {
 .hero {
   max-width: 1000px;
   margin: 0 auto;
-  padding: 16px 0 48px;
+  padding: 16px 0 64px;
 }
 
 .navigation {
@@ -47,7 +47,7 @@ body {
 
 .hero-image {
   min-width: 500px;
-  min-height: 300px;
+  min-height: 250px;
   
 }
 
@@ -78,7 +78,7 @@ a,
 
 .information-container {
   text-align: center;
-  padding: 32px 0 48px;
+  padding: 32px 0 64px;
   width: 1000px;
   margin: 0 auto;
 }
