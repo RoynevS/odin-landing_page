@@ -126,6 +126,31 @@ a,
   align-self: flex-end;
 }
 
+.call-to-action-container {
+  background-color: #3882F6;
+  width: 1000px;
+  margin: 96px auto;
+  border-radius: 9px;
+  padding: 32px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.call-to-action-text h2 {
+  color: #F9FAF8;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.call-to-action-text p {
+  color: #E5E7EB;
+}
+
+.btn-call-to-action {
+  border: 2px solid #fff;
+}
+
 ul {
   list-style-type: none;
   display: flex;
