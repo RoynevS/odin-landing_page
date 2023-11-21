@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;0,900;1,300&display=swap');
 
 * {
   margin: 0;
@@ -21,7 +21,7 @@ body {
 .hero {
   max-width: 1000px;
   margin: 0 auto;
-  padding: 16px 0 64px;
+  padding: 16px 0 96px;
 }
 
 .navigation {
@@ -78,7 +78,7 @@ a,
 
 .information-container {
   text-align: center;
-  padding: 32px 0 64px;
+  padding: 32px 0 96px;
   width: 1000px;
   margin: 0 auto;
 }
@@ -102,6 +102,28 @@ a,
   height: 150px;
   border: 2px solid #3882F6;
   border-radius: 9px;
+}
+
+.quote-section {
+  background-color: #E5E7EB;
+  padding: 36px 0 96px;
+}
+
+.quote-content {
+  width: 800px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.quote-text {
+  color: #1F2937;
+  font-size: 36px;
+  font-weight: 300;
+}
+
+.quote-source {
+  align-self: flex-end;
 }
 
 ul {
