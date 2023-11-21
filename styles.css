@@ -151,6 +151,15 @@ a,
   border: 2px solid #fff;
 }
 
+.footer {
+  background-color: #1F2937;
+  color: #E5E7EB;
+  padding: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 ul {
   list-style-type: none;
   display: flex;
